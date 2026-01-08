@@ -52,7 +52,7 @@ def get_live_weather(city):
         st.error(f"API Error: {e}")
         return None
 
-st.title("🏭 AI-Based AQI Predictor")
+st.title("Zephyr AI")
 st.markdown("Predicting Air Quality using **Machine Learning (Random Forest)**")
 
 if model:
