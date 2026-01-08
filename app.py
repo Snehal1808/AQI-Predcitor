@@ -9,7 +9,7 @@ MODEL_FILE = "aqi_model.pkl"
 SCALER_FILE = "scaler.pkl"
 
 st.set_page_config(
-    page_title="AI-Based AQI Predictor",
+    page_title="Zephyr AI",
     page_icon="🌤️",
     layout="centered"
 )
